@@ -1,1 +1,4 @@
 # Wang_dataset
+
+`dataset/dataset_mid_ligands.sdf`にはFlare FEPで中間体として導入されたリガンドが含まれる。
+中間体の名称は中間体として導入されたときにリンクとなっていた全化合物の名前を列挙した名前である。
