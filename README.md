@@ -4,6 +4,7 @@ Dataset of "Accurate and Reliable Prediction of Relative Ligand Binding Potency 
 
 すべてのPDBおよび化合物・中間体の情報は、Assessment of Binding Affinity via Alchemical Free-Energy Calculations (J. Chem. Inf. Model. 2020, 60, 6, 3120–3130)
 https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00165 で用いられたCresset Flare FEPプロジェクトファイルから取得した。
+
 -----
 
 `dataset/dataset_mid_ligands.sdf`にはFlare FEPで中間体として導入されたリガンドが含まれる。
