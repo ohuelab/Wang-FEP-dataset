@@ -15,4 +15,4 @@ JNK1とThrombinは中間体が導入されなかったため、`dataset/dataset_
 また、P38、PTP1B、BACE1は、中間体同士がリンクとなっている場合があるため、
 `wibble;CAT-13a_mk1`、`mk1;CAT-13f_CAT-13d_CAT-13o_CAT-13a_CAT-13g_CAT-13e_mk2_mk3_wibble`とすることで、仮名称に対してリンクしていることを示した。
 
-`complex` には各リガンドの複合体poseのPDBが含まれる。ターゲットのPDBと重ねることでシミュレーションの初期構造となる複合体構造PDBになる。
+`dataset/complex/` には各リガンドの複合体poseにおける座標情報 (PDB) が含まれる。ターゲットのPDBと重ねることでシミュレーションの初期構造となる複合体構造PDBになる。
