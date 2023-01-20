@@ -8,11 +8,12 @@ https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00165 で用いられたCresset 
 -----
 
 `dataset/dataset_mid_ligands.sdf`にはFlare FEPで中間体として導入されたリガンドが含まれる。
-中間体の名称は中間体として導入されたときにリンクとなっていた全化合物の名前を列挙した名前である。
+中間体には仮名及び導入された中間体がFlare FEPで導入されたときにリンクしていた化合物の名称を複合した名称を用いた。`dataset/complex/`内には仮名のみが用いられる。
+`wibble;CAT-13a_mk1`、`mk1;CAT-13f_CAT-13d_CAT-13o_CAT-13a_CAT-13g_CAT-13e_mk2_mk3_wibble`とすることで、仮名称に対してリンクしていることを示した。
+
 
 JNK1とThrombinは中間体が導入されなかったため、`dataset/dataset_mid_ligands.sdf`はファイルは存在しない。
 
-また、P38、PTP1B、BACE1は、中間体同士がリンクとなっている場合があるため、
-`wibble;CAT-13a_mk1`、`mk1;CAT-13f_CAT-13d_CAT-13o_CAT-13a_CAT-13g_CAT-13e_mk2_mk3_wibble`とすることで、仮名称に対してリンクしていることを示した。
+
 
 `dataset/complex/` には各リガンドの複合体poseにおける座標情報 (PDB) が含まれる。ターゲットのPDBと重ねることでシミュレーションの初期構造となる複合体構造PDBになる。
