@@ -1,0 +1,102 @@
+HEADER                                                                          
+TITLE     23479                                                                 
+HETATM    1  C   MOL     1      35.679   5.343  12.489  1.00  0.00           C  
+HETATM    2  C   MOL     1      37.189   5.357  12.423  1.00  0.00           C  
+HETATM    3  O   MOL     1      37.762   5.117  11.369  1.00  0.00           O  
+HETATM    4  N   MOL     1      37.814   5.649  13.584  1.00  0.00           N  
+HETATM    5  C   MOL     1      37.140   6.024  14.845  1.00  0.00           C  
+HETATM    6  C   MOL     1      37.494   7.500  15.108  1.00  0.00           C  
+HETATM    7  C   MOL     1      39.026   7.680  15.211  1.00  0.00           C  
+HETATM    8  N   MOL     1      39.320   9.123  15.270  1.00  0.00           N  
+HETATM    9  C   MOL     1      40.492   9.641  15.842  1.00  0.00           C  
+HETATM   10  C   MOL     1      41.331   8.881  16.651  1.00  0.00           C  
+HETATM   11  C   MOL     1      42.458   9.450  17.209  1.00  0.00           C  
+HETATM   12  C   MOL     1      42.771  10.759  16.961  1.00  0.00           C  
+HETATM   13  C   MOL     1      41.966  11.546  16.128  1.00  0.00           C  
+HETATM   14  C   MOL     1      42.300  12.892  15.837  1.00  0.00           C  
+HETATM   15  S   MOL     1      43.674  13.673  16.675  1.00  0.00           S  
+HETATM   16  C   MOL     1      43.321  15.158  15.753  1.00  0.00           C  
+HETATM   17  C   MOL     1      44.187  16.254  16.048  1.00  0.00           C  
+HETATM   18  O   MOL     1      45.089  16.060  16.909  1.00  0.00           O  
+HETATM   19  O   MOL     1      43.969  17.328  15.422  1.00  0.00           O1-
+HETATM   20  C   MOL     1      42.253  15.025  14.888  1.00  0.00           C  
+HETATM   21  O   MOL     1      41.859  16.036  14.096  1.00  0.00           O  
+HETATM   22  C   MOL     1      40.446  16.231  13.892  1.00  0.00           C  
+HETATM   23  C   MOL     1      40.233  17.276  12.830  1.00  0.00           C  
+HETATM   24  O   MOL     1      40.973  17.201  11.788  1.00  0.00           O  
+HETATM   25  O   MOL     1      39.329  18.154  13.056  1.00  0.00           O1-
+HETATM   26  C   MOL     1      41.690  13.746  14.934  1.00  0.00           C  
+HETATM   27  BR  MOL     1      40.254  13.204  13.830  1.00  0.00          BR  
+HETATM   28  C   MOL     1      40.820  10.951  15.594  1.00  0.00           C  
+HETATM   29  C   MOL     1      39.721   7.131  13.943  1.00  0.00           C  
+HETATM   30  C   MOL     1      39.283   5.683  13.647  1.00  0.00           C  
+HETATM   31  H   MOL     1      35.256   6.419  12.810  1.00  0.00           H  
+HETATM   32  H   MOL     1      35.299   4.482  13.234  1.00  0.00           H  
+HETATM   33  H   MOL     1      35.264   5.094  11.390  1.00  0.00           H  
+HETATM   34  H   MOL     1      35.949   5.896  14.871  1.00  0.00           H  
+HETATM   35  H   MOL     1      37.603   5.368  15.736  1.00  0.00           H  
+HETATM   36  H   MOL     1      36.988   7.858  16.135  1.00  0.00           H  
+HETATM   37  H   MOL     1      37.071   8.164  14.202  1.00  0.00           H  
+HETATM   38  H   MOL     1      39.383   7.075  16.182  1.00  0.00           H  
+HETATM   39  H   MOL     1      38.627   9.667  15.243  1.00  0.00           H  
+HETATM   40  H   MOL     1      41.120   7.923  16.839  1.00  0.00           H  
+HETATM   41  H   MOL     1      43.052   8.902  17.797  1.00  0.00           H  
+HETATM   42  H   MOL     1      43.592  11.156  17.372  1.00  0.00           H  
+HETATM   43  H   MOL     1      39.936  16.587  14.919  1.00  0.00           H  
+HETATM   44  H   MOL     1      39.916  15.226  13.511  1.00  0.00           H  
+HETATM   45  H   MOL     1      40.221  11.497  15.008  1.00  0.00           H  
+HETATM   46  H   MOL     1      40.912   7.172  14.086  1.00  0.00           H  
+HETATM   47  H   MOL     1      39.415   7.822  13.011  1.00  0.00           H  
+HETATM   48  H   MOL     1      39.759   5.326  12.604  1.00  0.00           H  
+HETATM   49  H   MOL     1      39.665   4.962  14.526  1.00  0.00           H  
+CONECT    1    2   31   32   33                                                 
+CONECT    2    1    3    3    4                                                 
+CONECT    3    2    2                                                           
+CONECT    4    2    5   30                                                      
+CONECT    5    4    6   34   35                                                 
+CONECT    6    5    7   36   37                                                 
+CONECT    7    6    8   29   38                                                 
+CONECT    8    7    9   39                                                      
+CONECT    9    8   10   10   28                                                 
+CONECT   10    9    9   11   40                                                 
+CONECT   11   10   12   12   41                                                 
+CONECT   12   11   11   13   42                                                 
+CONECT   13   12   14   28   28                                                 
+CONECT   14   13   15   26   26                                                 
+CONECT   15   14   16                                                           
+CONECT   16   15   17   20   20                                                 
+CONECT   17   16   18   18   19                                                 
+CONECT   18   17   17                                                           
+CONECT   19   17                                                                
+CONECT   20   16   16   21   26                                                 
+CONECT   21   20   22                                                           
+CONECT   22   21   23   43   44                                                 
+CONECT   23   22   24   24   25                                                 
+CONECT   24   23   23                                                           
+CONECT   25   23                                                                
+CONECT   26   14   14   20   27                                                 
+CONECT   27   26                                                                
+CONECT   28    9   13   13   45                                                 
+CONECT   29    7   30   46   47                                                 
+CONECT   30    4   29   48   49                                                 
+CONECT   31    1                                                                
+CONECT   32    1                                                                
+CONECT   33    1                                                                
+CONECT   34    5                                                                
+CONECT   35    5                                                                
+CONECT   36    6                                                                
+CONECT   37    6                                                                
+CONECT   38    7                                                                
+CONECT   39    8                                                                
+CONECT   40   10                                                                
+CONECT   41   11                                                                
+CONECT   42   12                                                                
+CONECT   43   22                                                                
+CONECT   44   22                                                                
+CONECT   45   28                                                                
+CONECT   46   29                                                                
+CONECT   47   29                                                                
+CONECT   48   30                                                                
+CONECT   49   30                                                                
+MASTER        0    0    0    0    0    0    0    0   49    0   49    0          
+END                                                                             
