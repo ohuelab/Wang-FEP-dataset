@@ -1,5 +1,7 @@
 # Wang_dataset
 
+![flr](https://user-images.githubusercontent.com/2476893/213655687-96ea44ae-ea61-4be2-b979-8dd47e72e7c4.png)
+
 Dataset of "Accurate and Reliable Prediction of Relative Ligand Binding Potency in Prospective Drug Discovery by Way of a Modern Free-Energy Calculation Protocol and Force Field" (J. Am. Chem. Soc. 2015, 137, 7, 2695–2703) https://pubs.acs.org/doi/10.1021/ja512751q
 
 すべてのPDBおよび化合物・中間体の情報は、Assessment of Binding Affinity via Alchemical Free-Energy Calculations (J. Chem. Inf. Model. 2020, 60, 6, 3120–3130)
